@@ -13,6 +13,7 @@ ul {
 }
 
 li {
+    cursor: pointer;
     list-style: none;
     column-gap: 50px;
     font-size: 20px;
