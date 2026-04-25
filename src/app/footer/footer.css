@@ -6,6 +6,7 @@
     
 }
 
+
 #fistpart{
     background-color: #fbfbfb;
     display: flex;
@@ -13,6 +14,10 @@
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 40px;
+    h3 {
+    color: #666; 
+    font-weight: 400;
+        }
 
 
 }
