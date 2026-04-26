@@ -52,3 +52,23 @@
     text-decoration: none;
     font-size: 18px;
 }
+
+
+.fourthsection{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #424242;
+}
+
+#vasrsity{
+    width: 40%;
+}
+
+
+.fifthsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #424242;
+}
