@@ -10,7 +10,8 @@
 #fistpart{
     background-color: #fbfbfb;
     display: flex;
-    justify-content: space-between;
+    cursor: pointer;
+    justify-content: space-evenly;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 40px;
@@ -19,5 +20,9 @@
     font-weight: 400;
         }
 
-
 }
+
+/* .secondpart{
+    display: flex;
+  
+} */
